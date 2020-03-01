@@ -16,7 +16,7 @@ install:
   #- set /P WYAMVERSION=< ..\Wyam\wyamversion.txt
   #- echo %WYAMVERSION%
   - git submodule update --init --recursive
-  #- mkdir ..\Wyam
+  - mkdir ..\Wyam
   - mkdir ..\output
   - curl -s https://raw.githubusercontent.com/Wyamio/Wyam/master/RELEASE -o ..\Wyam\wyamversion.txt
   - set /P WYAMVERSION=< ..\Wyam\wyamversion.txt
