@@ -2,16 +2,16 @@
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 	<channel>
 		<title>ashcoder.io</title>
-		<link>http://host.com/blog</link>
+		<link>http://host.com/notes</link>
 		<description>Welcome!</description>
 		<copyright>2020</copyright>
-		<pubDate>Sun, 01 Mar 2020 11:15:10 GMT</pubDate>
-		<lastBuildDate>Sun, 01 Mar 2020 11:15:10 GMT</lastBuildDate>
+		<pubDate>Sun, 01 Mar 2020 11:17:34 GMT</pubDate>
+		<lastBuildDate>Sun, 01 Mar 2020 11:17:34 GMT</lastBuildDate>
 		<item>
 			<title>aspnet core notebook</title>
-			<link>http://host.com/blog/posts/aspnetcore</link>
+			<link>http://host.com/notes/posts/aspnetcore</link>
 			<description>&lt;p&gt;new console app&lt;/p&gt;</description>
-			<guid>http://host.com/blog/posts/aspnetcore</guid>
+			<guid>http://host.com/notes/posts/aspnetcore</guid>
 			<pubDate>Tue, 18 Feb 2020 00:00:00 GMT</pubDate>
 			<content:encoded>&lt;p&gt;new console app&lt;/p&gt;
 &lt;hr /&gt;
@@ -21,8 +21,8 @@
 		</item>
 		<item>
 			<title>Custom Model Validation</title>
-			<link>http://host.com/blog/posts/modelvalidation</link>
-			<guid>http://host.com/blog/posts/modelvalidation</guid>
+			<link>http://host.com/notes/posts/modelvalidation</link>
+			<guid>http://host.com/notes/posts/modelvalidation</guid>
 			<pubDate>Wed, 18 Dec 2019 00:00:00 GMT</pubDate>
 			<content:encoded>&lt;h1 id="custom-model-validation"&gt;Custom Model Validation&lt;/h1&gt;
 &lt;pre&gt;&lt;code class="language-csharp"&gt;public class Result
@@ -63,9 +63,9 @@
 		</item>
 		<item>
 			<title>Crete public key private key OpenSSL</title>
-			<link>http://host.com/blog/posts/publickey-privatekey-generation</link>
+			<link>http://host.com/notes/posts/publickey-privatekey-generation</link>
 			<description>&lt;p&gt;Generate Private key(pkcs1) and certificate&lt;/p&gt;</description>
-			<guid>http://host.com/blog/posts/publickey-privatekey-generation</guid>
+			<guid>http://host.com/notes/posts/publickey-privatekey-generation</guid>
 			<pubDate>Sun, 08 Dec 2019 00:00:00 GMT</pubDate>
 			<content:encoded>&lt;h1 id="create-public-key-private-key-openssl"&gt;Create public key private key OpenSSL&lt;/h1&gt;
 &lt;p&gt;Generate Private key(pkcs1) and certificate&lt;/p&gt;
@@ -129,9 +129,9 @@
 		</item>
 		<item>
 			<title>Wyam Blog Getting Started(cheetsheet)</title>
-			<link>http://host.com/blog/posts/wyamgettingstarted</link>
+			<link>http://host.com/notes/posts/wyamgettingstarted</link>
 			<description>&lt;p&gt;&lt;a href="https://github.com/Wyamio/Wyam"&gt;Github link&lt;/a&gt; For Wyam Source&lt;/p&gt;</description>
-			<guid>http://host.com/blog/posts/wyamgettingstarted</guid>
+			<guid>http://host.com/notes/posts/wyamgettingstarted</guid>
 			<pubDate>Mon, 25 Nov 2019 00:00:00 GMT</pubDate>
 			<content:encoded>&lt;h1 id="installing"&gt;Installing&lt;/h1&gt;
 &lt;p&gt;&lt;a href="https://github.com/Wyamio/Wyam"&gt;Github link&lt;/a&gt; For Wyam Source&lt;/p&gt;
@@ -158,9 +158,9 @@
 		</item>
 		<item>
 			<title>Django Python Getting Started Cheet Sheet</title>
-			<link>http://host.com/blog/posts/djangocheetsh</link>
+			<link>http://host.com/notes/posts/djangocheetsh</link>
 			<description>&lt;p&gt;Installing virtualenv and virtualenvwrapper&lt;/p&gt;</description>
-			<guid>http://host.com/blog/posts/djangocheetsh</guid>
+			<guid>http://host.com/notes/posts/djangocheetsh</guid>
 			<pubDate>Mon, 25 Nov 2019 00:00:00 GMT</pubDate>
 			<content:encoded>&lt;h1 id="python-django-gs"&gt;Python Django GS&lt;/h1&gt;
 &lt;p&gt;Installing virtualenv and virtualenvwrapper&lt;/p&gt;
@@ -216,9 +216,9 @@
 		</item>
 		<item>
 			<title>My SQL Basic</title>
-			<link>http://host.com/blog/posts/mysqlbasic</link>
+			<link>http://host.com/notes/posts/mysqlbasic</link>
 			<description>&lt;p&gt;connect db&lt;/p&gt;</description>
-			<guid>http://host.com/blog/posts/mysqlbasic</guid>
+			<guid>http://host.com/notes/posts/mysqlbasic</guid>
 			<pubDate>Thu, 10 Oct 2019 00:00:00 GMT</pubDate>
 			<content:encoded>&lt;h1 id="mysql-command-line-connection"&gt;Mysql command line connection&lt;/h1&gt;
 &lt;p&gt;connect db&lt;/p&gt;
@@ -272,9 +272,9 @@ port=3306
 		</item>
 		<item>
 			<title>Sql Server Important Query</title>
-			<link>http://host.com/blog/posts/sqlServerhelper</link>
+			<link>http://host.com/notes/posts/sqlServerhelper</link>
 			<description>&lt;p&gt;&lt;strong&gt;method1:&lt;/strong&gt;&lt;/p&gt;</description>
-			<guid>http://host.com/blog/posts/sqlServerhelper</guid>
+			<guid>http://host.com/notes/posts/sqlServerhelper</guid>
 			<pubDate>Sat, 20 Jul 2019 00:00:00 GMT</pubDate>
 			<content:encoded>&lt;h1 id="get-all-table-row-count"&gt;Get All Table Row Count&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;method1:&lt;/strong&gt;&lt;/p&gt;
@@ -436,9 +436,9 @@ print &amp;#64;Result
 		</item>
 		<item>
 			<title>Asp.net Core Web API Partial Updates with HTTP Patch (JSON Patch)</title>
-			<link>http://host.com/blog/posts/jsonpatch</link>
+			<link>http://host.com/notes/posts/jsonpatch</link>
 			<description>&lt;p&gt;JSON Patch is specified in &lt;a href="https://tools.ietf.org/html/rfc6902"&gt;RFC 6902&lt;/a&gt; from the IETF.&lt;/p&gt;</description>
-			<guid>http://host.com/blog/posts/jsonpatch</guid>
+			<guid>http://host.com/notes/posts/jsonpatch</guid>
 			<pubDate>Sun, 16 Jun 2019 00:00:00 GMT</pubDate>
 			<content:encoded>&lt;h1 id="partial-updates-with-http-patch-using-json-patch-document"&gt;Partial Updates with HTTP Patch using JSON Patch document&lt;/h1&gt;
 &lt;p&gt;JSON Patch is specified in &lt;a href="https://tools.ietf.org/html/rfc6902"&gt;RFC 6902&lt;/a&gt; from the IETF.&lt;/p&gt;
@@ -447,9 +447,9 @@ print &amp;#64;Result
 		</item>
 		<item>
 			<title>Parameter passing in C# Passing by reference vs. passing by value</title>
-			<link>http://host.com/blog/posts/parameter</link>
+			<link>http://host.com/notes/posts/parameter</link>
 			<description>&lt;p&gt;there is a nice article about it by John skeet.A &lt;a href="http://www.leerichardson.com/2007/01/parameter-passing-in-c.html"&gt;complementary article&lt;/a&gt; to this one. &lt;a href="https://jonskeet.uk/csharp/parameters.html"&gt;Here&lt;/a&gt; is the John skeet article. Some parts of it is as follows&lt;/p&gt;</description>
-			<guid>http://host.com/blog/posts/parameter</guid>
+			<guid>http://host.com/notes/posts/parameter</guid>
 			<pubDate>Sun, 16 Jun 2019 00:00:00 GMT</pubDate>
 			<content:encoded>&lt;h1 id="parameter-passing-in-c-passing-by-reference-vs.passing-by-value"&gt;Parameter passing in C# Passing by reference vs. passing by value&lt;/h1&gt;
 &lt;p&gt;there is a nice article about it by John skeet.A &lt;a href="http://www.leerichardson.com/2007/01/parameter-passing-in-c.html"&gt;complementary article&lt;/a&gt; to this one. &lt;a href="https://jonskeet.uk/csharp/parameters.html"&gt;Here&lt;/a&gt; is the John skeet article. Some parts of it is as follows&lt;/p&gt;
@@ -472,9 +472,9 @@ Foo (??? y);
 		</item>
 		<item>
 			<title>HttpClient to Consume API</title>
-			<link>http://host.com/blog/posts/httpclient</link>
+			<link>http://host.com/notes/posts/httpclient</link>
 			<description>&lt;p&gt;Provides a base class for sending HTTP requests and receiving HTTP responses&lt;/p&gt;</description>
-			<guid>http://host.com/blog/posts/httpclient</guid>
+			<guid>http://host.com/notes/posts/httpclient</guid>
 			<pubDate>Thu, 13 Jun 2019 00:00:00 GMT</pubDate>
 			<content:encoded>&lt;h1 id="httpclient-to-comsume-api"&gt;HttpClient to Comsume API&lt;/h1&gt;
 &lt;h1 id="httpclient"&gt;HttpClient&lt;/h1&gt;
@@ -602,9 +602,9 @@ To write a custom message handler, derive from System.Net.Http.DelegatingHandler
 		</item>
 		<item>
 			<title>Ubuntu basics</title>
-			<link>http://host.com/blog/posts/ubuntu-basics</link>
+			<link>http://host.com/notes/posts/ubuntu-basics</link>
 			<description>&lt;p&gt;How To Create a Sudo User on Ubuntu&lt;/p&gt;</description>
-			<guid>http://host.com/blog/posts/ubuntu-basics</guid>
+			<guid>http://host.com/notes/posts/ubuntu-basics</guid>
 			<pubDate>Tue, 11 Jun 2019 00:00:00 GMT</pubDate>
 			<content:encoded>&lt;h1 id="ubuntu-basics"&gt;Ubuntu Basics&lt;/h1&gt;
 &lt;p&gt;How To Create a Sudo User on Ubuntu&lt;/p&gt;
@@ -683,10 +683,41 @@ Use the su command to switch to the new user account.&lt;/p&gt;
 </content:encoded>
 		</item>
 		<item>
+			<title>Image Upload Preview</title>
+			<link>http://host.com/notes/posts/image-upload-preview</link>
+			<description>&lt;p&gt;HTML Code:&lt;/p&gt;</description>
+			<guid>http://host.com/notes/posts/image-upload-preview</guid>
+			<pubDate>Tue, 11 Jun 2019 00:00:00 GMT</pubDate>
+			<content:encoded>&lt;h1 id="image-upload-preview"&gt;Image Upload Preview&lt;/h1&gt;
+&lt;p&gt;HTML Code:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-html"&gt;    &amp;lt;form id=&amp;quot;form1&amp;quot; runat=&amp;quot;server&amp;quot;&amp;gt;
+        &amp;lt;input type=&amp;quot;file&amp;quot; accept=&amp;quot;image/*&amp;quot; onchange=&amp;quot;loadFile(event)&amp;quot; id=&amp;quot;LogoImageFile&amp;quot; name=&amp;quot;LogoImageFile&amp;quot; /&amp;gt;
+        &amp;lt;img id=&amp;quot;output&amp;quot;/&amp;gt;
+    &amp;lt;/form&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Javascript Code:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-javascript"&gt;    var loadFile = function(event) {
+        var output = document.getElementById('output');
+        output.src = URL.createObjectURL(event.target.files[0]);
+    };
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Backend controller code:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-c-sharp"&gt;    if (model.LogoImageFile != null)
+    {
+        using (var memoryStream = new MemoryStream())
+        {
+            await model.LogoImageFile.CopyToAsync(memoryStream);
+            model.Person.LogoImage = memoryStream.ToArray();
+        }
+    }
+&lt;/code&gt;&lt;/pre&gt;
+</content:encoded>
+		</item>
+		<item>
 			<title>Ubuntu time</title>
-			<link>http://host.com/blog/posts/ubuntutime</link>
+			<link>http://host.com/notes/posts/ubuntutime</link>
 			<description>&lt;p&gt;Basic Time Commands&lt;/p&gt;</description>
-			<guid>http://host.com/blog/posts/ubuntutime</guid>
+			<guid>http://host.com/notes/posts/ubuntutime</guid>
 			<pubDate>Tue, 11 Jun 2019 00:00:00 GMT</pubDate>
 			<content:encoded>&lt;h1 id="time-synchronization-on-ubuntu"&gt;Time Synchronization on Ubuntu&lt;/h1&gt;
 &lt;p&gt;Basic Time Commands&lt;/p&gt;
@@ -722,37 +753,6 @@ Use the su command to switch to the new user account.&lt;/p&gt;
 &lt;pre&gt;&lt;code class="language-shell"&gt;
     service ntp restart
 
-&lt;/code&gt;&lt;/pre&gt;
-</content:encoded>
-		</item>
-		<item>
-			<title>Image Upload Preview</title>
-			<link>http://host.com/blog/posts/image-upload-preview</link>
-			<description>&lt;p&gt;HTML Code:&lt;/p&gt;</description>
-			<guid>http://host.com/blog/posts/image-upload-preview</guid>
-			<pubDate>Tue, 11 Jun 2019 00:00:00 GMT</pubDate>
-			<content:encoded>&lt;h1 id="image-upload-preview"&gt;Image Upload Preview&lt;/h1&gt;
-&lt;p&gt;HTML Code:&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-html"&gt;    &amp;lt;form id=&amp;quot;form1&amp;quot; runat=&amp;quot;server&amp;quot;&amp;gt;
-        &amp;lt;input type=&amp;quot;file&amp;quot; accept=&amp;quot;image/*&amp;quot; onchange=&amp;quot;loadFile(event)&amp;quot; id=&amp;quot;LogoImageFile&amp;quot; name=&amp;quot;LogoImageFile&amp;quot; /&amp;gt;
-        &amp;lt;img id=&amp;quot;output&amp;quot;/&amp;gt;
-    &amp;lt;/form&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Javascript Code:&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-javascript"&gt;    var loadFile = function(event) {
-        var output = document.getElementById('output');
-        output.src = URL.createObjectURL(event.target.files[0]);
-    };
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Backend controller code:&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-c-sharp"&gt;    if (model.LogoImageFile != null)
-    {
-        using (var memoryStream = new MemoryStream())
-        {
-            await model.LogoImageFile.CopyToAsync(memoryStream);
-            model.Person.LogoImage = memoryStream.ToArray();
-        }
-    }
 &lt;/code&gt;&lt;/pre&gt;
 </content:encoded>
 		</item>

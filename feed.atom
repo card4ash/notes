@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<id>http://host.com/blog</id>
+	<id>http://host.com/notes</id>
 	<title>ashcoder.io</title>
-	<link rel="self" href="http://host.com/blog" />
+	<link rel="self" href="http://host.com/notes" />
 	<rights>2020</rights>
-	<updated>2020-03-01T11:15:10Z</updated>
+	<updated>2020-03-01T11:17:34Z</updated>
 	<subtitle>Welcome!</subtitle>
 	<entry>
-		<id>http://host.com/blog/posts/aspnetcore</id>
+		<id>http://host.com/notes/posts/aspnetcore</id>
 		<title>aspnet core notebook</title>
-		<link href="http://host.com/blog/posts/aspnetcore" />
+		<link href="http://host.com/notes/posts/aspnetcore" />
 		<updated>2020-02-18T00:00:00Z</updated>
 		<content>&lt;p&gt;new console app&lt;/p&gt;
 &lt;hr /&gt;
@@ -19,9 +19,9 @@
 		<summary>&lt;p&gt;new console app&lt;/p&gt;</summary>
 	</entry>
 	<entry>
-		<id>http://host.com/blog/posts/modelvalidation</id>
+		<id>http://host.com/notes/posts/modelvalidation</id>
 		<title>Custom Model Validation</title>
-		<link href="http://host.com/blog/posts/modelvalidation" />
+		<link href="http://host.com/notes/posts/modelvalidation" />
 		<updated>2019-12-18T00:00:00Z</updated>
 		<content>&lt;h1 id="custom-model-validation"&gt;Custom Model Validation&lt;/h1&gt;
 &lt;pre&gt;&lt;code class="language-csharp"&gt;public class Result
@@ -61,9 +61,9 @@
 </content>
 	</entry>
 	<entry>
-		<id>http://host.com/blog/posts/publickey-privatekey-generation</id>
+		<id>http://host.com/notes/posts/publickey-privatekey-generation</id>
 		<title>Crete public key private key OpenSSL</title>
-		<link href="http://host.com/blog/posts/publickey-privatekey-generation" />
+		<link href="http://host.com/notes/posts/publickey-privatekey-generation" />
 		<updated>2019-12-08T00:00:00Z</updated>
 		<content>&lt;h1 id="create-public-key-private-key-openssl"&gt;Create public key private key OpenSSL&lt;/h1&gt;
 &lt;p&gt;Generate Private key(pkcs1) and certificate&lt;/p&gt;
@@ -127,9 +127,9 @@
 		<summary>&lt;p&gt;Generate Private key(pkcs1) and certificate&lt;/p&gt;</summary>
 	</entry>
 	<entry>
-		<id>http://host.com/blog/posts/wyamgettingstarted</id>
+		<id>http://host.com/notes/posts/wyamgettingstarted</id>
 		<title>Wyam Blog Getting Started(cheetsheet)</title>
-		<link href="http://host.com/blog/posts/wyamgettingstarted" />
+		<link href="http://host.com/notes/posts/wyamgettingstarted" />
 		<updated>2019-11-25T00:00:00Z</updated>
 		<content>&lt;h1 id="installing"&gt;Installing&lt;/h1&gt;
 &lt;p&gt;&lt;a href="https://github.com/Wyamio/Wyam"&gt;Github link&lt;/a&gt; For Wyam Source&lt;/p&gt;
@@ -156,9 +156,9 @@
 		<summary>&lt;p&gt;&lt;a href="https://github.com/Wyamio/Wyam"&gt;Github link&lt;/a&gt; For Wyam Source&lt;/p&gt;</summary>
 	</entry>
 	<entry>
-		<id>http://host.com/blog/posts/djangocheetsh</id>
+		<id>http://host.com/notes/posts/djangocheetsh</id>
 		<title>Django Python Getting Started Cheet Sheet</title>
-		<link href="http://host.com/blog/posts/djangocheetsh" />
+		<link href="http://host.com/notes/posts/djangocheetsh" />
 		<updated>2019-11-25T00:00:00Z</updated>
 		<content>&lt;h1 id="python-django-gs"&gt;Python Django GS&lt;/h1&gt;
 &lt;p&gt;Installing virtualenv and virtualenvwrapper&lt;/p&gt;
@@ -214,9 +214,9 @@
 		<summary>&lt;p&gt;Installing virtualenv and virtualenvwrapper&lt;/p&gt;</summary>
 	</entry>
 	<entry>
-		<id>http://host.com/blog/posts/mysqlbasic</id>
+		<id>http://host.com/notes/posts/mysqlbasic</id>
 		<title>My SQL Basic</title>
-		<link href="http://host.com/blog/posts/mysqlbasic" />
+		<link href="http://host.com/notes/posts/mysqlbasic" />
 		<updated>2019-10-10T00:00:00Z</updated>
 		<content>&lt;h1 id="mysql-command-line-connection"&gt;Mysql command line connection&lt;/h1&gt;
 &lt;p&gt;connect db&lt;/p&gt;
@@ -270,9 +270,9 @@ port=3306
 		<summary>&lt;p&gt;connect db&lt;/p&gt;</summary>
 	</entry>
 	<entry>
-		<id>http://host.com/blog/posts/sqlServerhelper</id>
+		<id>http://host.com/notes/posts/sqlServerhelper</id>
 		<title>Sql Server Important Query</title>
-		<link href="http://host.com/blog/posts/sqlServerhelper" />
+		<link href="http://host.com/notes/posts/sqlServerhelper" />
 		<updated>2019-07-20T00:00:00Z</updated>
 		<content>&lt;h1 id="get-all-table-row-count"&gt;Get All Table Row Count&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;method1:&lt;/strong&gt;&lt;/p&gt;
@@ -434,9 +434,9 @@ print &amp;#64;Result
 		<summary>&lt;p&gt;&lt;strong&gt;method1:&lt;/strong&gt;&lt;/p&gt;</summary>
 	</entry>
 	<entry>
-		<id>http://host.com/blog/posts/jsonpatch</id>
+		<id>http://host.com/notes/posts/jsonpatch</id>
 		<title>Asp.net Core Web API Partial Updates with HTTP Patch (JSON Patch)</title>
-		<link href="http://host.com/blog/posts/jsonpatch" />
+		<link href="http://host.com/notes/posts/jsonpatch" />
 		<updated>2019-06-16T00:00:00Z</updated>
 		<content>&lt;h1 id="partial-updates-with-http-patch-using-json-patch-document"&gt;Partial Updates with HTTP Patch using JSON Patch document&lt;/h1&gt;
 &lt;p&gt;JSON Patch is specified in &lt;a href="https://tools.ietf.org/html/rfc6902"&gt;RFC 6902&lt;/a&gt; from the IETF.&lt;/p&gt;
@@ -445,9 +445,9 @@ print &amp;#64;Result
 		<summary>&lt;p&gt;JSON Patch is specified in &lt;a href="https://tools.ietf.org/html/rfc6902"&gt;RFC 6902&lt;/a&gt; from the IETF.&lt;/p&gt;</summary>
 	</entry>
 	<entry>
-		<id>http://host.com/blog/posts/parameter</id>
+		<id>http://host.com/notes/posts/parameter</id>
 		<title>Parameter passing in C# Passing by reference vs. passing by value</title>
-		<link href="http://host.com/blog/posts/parameter" />
+		<link href="http://host.com/notes/posts/parameter" />
 		<updated>2019-06-16T00:00:00Z</updated>
 		<content>&lt;h1 id="parameter-passing-in-c-passing-by-reference-vs.passing-by-value"&gt;Parameter passing in C# Passing by reference vs. passing by value&lt;/h1&gt;
 &lt;p&gt;there is a nice article about it by John skeet.A &lt;a href="http://www.leerichardson.com/2007/01/parameter-passing-in-c.html"&gt;complementary article&lt;/a&gt; to this one. &lt;a href="https://jonskeet.uk/csharp/parameters.html"&gt;Here&lt;/a&gt; is the John skeet article. Some parts of it is as follows&lt;/p&gt;
@@ -470,9 +470,9 @@ Foo (??? y);
 		<summary>&lt;p&gt;there is a nice article about it by John skeet.A &lt;a href="http://www.leerichardson.com/2007/01/parameter-passing-in-c.html"&gt;complementary article&lt;/a&gt; to this one. &lt;a href="https://jonskeet.uk/csharp/parameters.html"&gt;Here&lt;/a&gt; is the John skeet article. Some parts of it is as follows&lt;/p&gt;</summary>
 	</entry>
 	<entry>
-		<id>http://host.com/blog/posts/httpclient</id>
+		<id>http://host.com/notes/posts/httpclient</id>
 		<title>HttpClient to Consume API</title>
-		<link href="http://host.com/blog/posts/httpclient" />
+		<link href="http://host.com/notes/posts/httpclient" />
 		<updated>2019-06-13T00:00:00Z</updated>
 		<content>&lt;h1 id="httpclient-to-comsume-api"&gt;HttpClient to Comsume API&lt;/h1&gt;
 &lt;h1 id="httpclient"&gt;HttpClient&lt;/h1&gt;
@@ -600,9 +600,9 @@ To write a custom message handler, derive from System.Net.Http.DelegatingHandler
 		<summary>&lt;p&gt;Provides a base class for sending HTTP requests and receiving HTTP responses&lt;/p&gt;</summary>
 	</entry>
 	<entry>
-		<id>http://host.com/blog/posts/ubuntu-basics</id>
+		<id>http://host.com/notes/posts/ubuntu-basics</id>
 		<title>Ubuntu basics</title>
-		<link href="http://host.com/blog/posts/ubuntu-basics" />
+		<link href="http://host.com/notes/posts/ubuntu-basics" />
 		<updated>2019-06-11T00:00:00Z</updated>
 		<content>&lt;h1 id="ubuntu-basics"&gt;Ubuntu Basics&lt;/h1&gt;
 &lt;p&gt;How To Create a Sudo User on Ubuntu&lt;/p&gt;
@@ -682,9 +682,40 @@ Use the su command to switch to the new user account.&lt;/p&gt;
 		<summary>&lt;p&gt;How To Create a Sudo User on Ubuntu&lt;/p&gt;</summary>
 	</entry>
 	<entry>
-		<id>http://host.com/blog/posts/ubuntutime</id>
+		<id>http://host.com/notes/posts/image-upload-preview</id>
+		<title>Image Upload Preview</title>
+		<link href="http://host.com/notes/posts/image-upload-preview" />
+		<updated>2019-06-11T00:00:00Z</updated>
+		<content>&lt;h1 id="image-upload-preview"&gt;Image Upload Preview&lt;/h1&gt;
+&lt;p&gt;HTML Code:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-html"&gt;    &amp;lt;form id=&amp;quot;form1&amp;quot; runat=&amp;quot;server&amp;quot;&amp;gt;
+        &amp;lt;input type=&amp;quot;file&amp;quot; accept=&amp;quot;image/*&amp;quot; onchange=&amp;quot;loadFile(event)&amp;quot; id=&amp;quot;LogoImageFile&amp;quot; name=&amp;quot;LogoImageFile&amp;quot; /&amp;gt;
+        &amp;lt;img id=&amp;quot;output&amp;quot;/&amp;gt;
+    &amp;lt;/form&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Javascript Code:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-javascript"&gt;    var loadFile = function(event) {
+        var output = document.getElementById('output');
+        output.src = URL.createObjectURL(event.target.files[0]);
+    };
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Backend controller code:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-c-sharp"&gt;    if (model.LogoImageFile != null)
+    {
+        using (var memoryStream = new MemoryStream())
+        {
+            await model.LogoImageFile.CopyToAsync(memoryStream);
+            model.Person.LogoImage = memoryStream.ToArray();
+        }
+    }
+&lt;/code&gt;&lt;/pre&gt;
+</content>
+		<summary>&lt;p&gt;HTML Code:&lt;/p&gt;</summary>
+	</entry>
+	<entry>
+		<id>http://host.com/notes/posts/ubuntutime</id>
 		<title>Ubuntu time</title>
-		<link href="http://host.com/blog/posts/ubuntutime" />
+		<link href="http://host.com/notes/posts/ubuntutime" />
 		<updated>2019-06-11T00:00:00Z</updated>
 		<content>&lt;h1 id="time-synchronization-on-ubuntu"&gt;Time Synchronization on Ubuntu&lt;/h1&gt;
 &lt;p&gt;Basic Time Commands&lt;/p&gt;
@@ -723,36 +754,5 @@ Use the su command to switch to the new user account.&lt;/p&gt;
 &lt;/code&gt;&lt;/pre&gt;
 </content>
 		<summary>&lt;p&gt;Basic Time Commands&lt;/p&gt;</summary>
-	</entry>
-	<entry>
-		<id>http://host.com/blog/posts/image-upload-preview</id>
-		<title>Image Upload Preview</title>
-		<link href="http://host.com/blog/posts/image-upload-preview" />
-		<updated>2019-06-11T00:00:00Z</updated>
-		<content>&lt;h1 id="image-upload-preview"&gt;Image Upload Preview&lt;/h1&gt;
-&lt;p&gt;HTML Code:&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-html"&gt;    &amp;lt;form id=&amp;quot;form1&amp;quot; runat=&amp;quot;server&amp;quot;&amp;gt;
-        &amp;lt;input type=&amp;quot;file&amp;quot; accept=&amp;quot;image/*&amp;quot; onchange=&amp;quot;loadFile(event)&amp;quot; id=&amp;quot;LogoImageFile&amp;quot; name=&amp;quot;LogoImageFile&amp;quot; /&amp;gt;
-        &amp;lt;img id=&amp;quot;output&amp;quot;/&amp;gt;
-    &amp;lt;/form&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Javascript Code:&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-javascript"&gt;    var loadFile = function(event) {
-        var output = document.getElementById('output');
-        output.src = URL.createObjectURL(event.target.files[0]);
-    };
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Backend controller code:&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-c-sharp"&gt;    if (model.LogoImageFile != null)
-    {
-        using (var memoryStream = new MemoryStream())
-        {
-            await model.LogoImageFile.CopyToAsync(memoryStream);
-            model.Person.LogoImage = memoryStream.ToArray();
-        }
-    }
-&lt;/code&gt;&lt;/pre&gt;
-</content>
-		<summary>&lt;p&gt;HTML Code:&lt;/p&gt;</summary>
 	</entry>
 </feed>
