@@ -41,7 +41,7 @@ on_success:
   - xcopy ..\output . /E /Y
  
   # EDIT the origin of your repository - have to reset it here because AppVeyor pulls from SSH, but GitHub won't accept SSH pushes
-  - git remote set-url origin https://github.com/card4ash/blog.git
+  - git remote set-url origin https://github.com/card4ash/notes.git
   - git add .
   - git commit -a -m "Commit from AppVeyor done"
   - git push
